@@ -22,20 +22,5 @@
             <image:caption>Perencanaan keuangan untuk investasi emas</image:caption>
         </image:image>
     </url>
-    
-    <!-- Related Articles (Placeholder) -->
-    <url>
-        <loc>https://finansial-muda.vercel.app/cara-cek-harga-emas-hari-ini</loc>
-        <lastmod>2026-01-21</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://finansial-muda.vercel.app/perbandingan-investasi-emas-vs-reksadana</loc>
-        <lastmod>2026-01-21</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
 
 </urlset>
